@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 #### Use Well
-<java?style=flat-square&logo=javascript&logoColor=white"/>
+<"Java"?style=flat-square&logo=javascript&logoColor=white"/>
 
 #### Have Used
 
