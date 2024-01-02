@@ -7,10 +7,11 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 #### Use Well
+<java?style=flat-square&logo=javascript&logoColor=white"/>
 
 #### Have Used
 
-#### TOOL
+#### Tool
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=javascript&logoColor=white"/>
 
 <!--
