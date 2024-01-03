@@ -1,6 +1,8 @@
 ## Hey Bro
 
-<img src="https://github-readme-stats.vercel.app/api?username=bbabbungtting&show_icons=true&theme=gotham"> 
+<img src="https://github-readme-stats.vercel.app/api?username=bbabbungtting&show_icons=true&theme=gotham">
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cj99won">
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj99won)](https://solved.ac/cj99won/)
