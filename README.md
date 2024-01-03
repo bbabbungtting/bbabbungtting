@@ -23,6 +23,7 @@
 
 #### Tool
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
 
 <!--
 **bbabbungtting/bbabbungtting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
