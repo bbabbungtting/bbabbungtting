@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bbabbungtting&show_icons=true&theme=gotham"> 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/cj99won/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj99won)](https://solved.ac/cj99won/)
 
 ### 🛠 Stack
 #### Studying
