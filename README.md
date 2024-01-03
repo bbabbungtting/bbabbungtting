@@ -4,9 +4,8 @@
 
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cj99won">
-<!--
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj99won)](https://solved.ac/cj99won/)
--->
 
 ### 🛠 Stack
 #### Studying
